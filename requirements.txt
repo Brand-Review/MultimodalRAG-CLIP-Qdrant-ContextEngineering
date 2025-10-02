@@ -1,0 +1,7 @@
+qdrant-client>=1.9.0
+sentence-transformers>=3.0.0
+transformers>=4.42.0
+accelerate>=0.29.0
+torch>=2.2.0
+numpy>=1.26.0
+tqdm>=4.66.0
